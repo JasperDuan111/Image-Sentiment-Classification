@@ -51,7 +51,7 @@ Image Sentiment Classification/
 
 ## Data Source
 
-You can download the data from [Fer 2013](https://www.kaggle.com/datasets/msambare/fer2013)
+You can download the data from [FER 2013](https://www.kaggle.com/datasets/msambare/fer2013)
 
 ## Examples of ouputs
 
